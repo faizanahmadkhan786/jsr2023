@@ -1,0 +1,22 @@
+body{
+    margin :0px;
+    padding: 0px;
+}
+
+/* Custom CSS for controlling image size within the Bootstrap Carousel */
+.carousel-inner img {
+    max-width: auto ;
+    height:80%;
+}
+#first-column{
+    background-color: yellowgreen;
+    height:300px;
+}
+#second-column{
+    background-color: blue;
+    height:300px;
+}
+#third-column{
+    background-color: brown;
+    height:300px;
+}
